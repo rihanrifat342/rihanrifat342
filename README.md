@@ -18,7 +18,7 @@ ISE Graduate | AI & Full-Stack Developer | Building Practical Tech Solutions
 
 💡 Interested in **Cyber Security, AI, and Web Technologies**
 
-📫 Reach me at: **your-email@gmail.com**
+📫 Reach me at: **mohammed.rihan342@gmail.com**
 
 </div>
 
