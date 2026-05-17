@@ -30,14 +30,6 @@ ISE Graduate | AI & Full-Stack Developer | Building Practical Tech Solutions
 
 ---
 
-<h2 align="center">📊 Profile Summary</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rihanrifat342&theme=tokyonight" />
-</p>
-
----
-
 <h2 align="center">💻 Languages</h2>
 
 <p align="center">
@@ -147,25 +139,11 @@ Cybersecurity project to securely hide secret data inside images.
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rihanrifat342&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihanrifat342&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rihanrifat342&theme=tokyo-night&hide_border=true"/>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rihanrifat342&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rihanrifat342&theme=tokyonight&row=1&column=6" />
-</div>
 
 ---
 
