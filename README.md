@@ -74,7 +74,7 @@ ISE Graduate | AI & Full-Stack Developer | Building Practical Tech Solutions
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
 </a>
 
-<a href="https://getbootstrap.com" target="_blank">
+<a href="https://getbootstrap.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
 </a>
 
@@ -90,7 +90,7 @@ ISE Graduate | AI & Full-Stack Developer | Building Practical Tech Solutions
 
 <p align="center">
 
-<a href="https://nodejs.org" target="_blank">
+<a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
 </a>
 
@@ -149,19 +149,17 @@ Cybersecurity project to securely hide secret data inside images.
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rihanrifat342&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rihanrifat342&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihanrifat342&layout=compact&theme=tokyonight"/>
-
-</div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihanrifat342&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rihanrifat342&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rihanrifat342&theme=tokyonight&hide_border=true" />
+</p>
 
 <br>
 
